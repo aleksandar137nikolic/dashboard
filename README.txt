@@ -1,5 +1,0 @@
-Packages
-
-pandas
-panel
-pymysql
